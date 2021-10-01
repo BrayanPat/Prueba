@@ -1,3 +1,8 @@
+/**
+*
+* @author brayan
+*/
+
 public class Estudiante {
     
     private String nombre;
